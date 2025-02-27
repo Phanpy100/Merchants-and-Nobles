@@ -1,0 +1,6 @@
+{
+	"useColorAsBaseTerrain": "false",
+	"ruleVariants": {
+		"Grasslands+Cliffs of Dover": ["Grasslands", "Cliffs of Dover"],
+	}
+}

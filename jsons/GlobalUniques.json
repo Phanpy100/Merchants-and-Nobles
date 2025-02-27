@@ -1,0 +1,88 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+        "[-75]% growth [in all cities] <when between [-10] and [-1] Happiness>",
+        "Nullifies Growth [in all cities] <when below [-10] Happiness>",
+        "[-50]% [Production] [in all cities] <when below [-10] Happiness>",
+        "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
+        "Cannot build [Settler] units <when below [-10] Happiness>",
+        "Rebel units may spawn <when below [-20] Happiness>",
+        "[-1] Sight <for [Embarked] units>",
+
+        // Monopoly Stuff
+        "May buy [Tycoon] units for [350] [Gold] [in all cities] <after discovering [Currency]> <in cities with a [Workshop]>",
+        "May buy [Investor] units for [700] [Gold] [in all cities] <after discovering [Currency]> <in cities with a [Bank]>",
+
+        "Gain a free [Incense Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Incense]> <upon turn start>",
+        "Gain a free [Dyes Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Dyes]> <upon turn start>",
+        "Gain a free [Furs Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Furs]> <upon turn start>",
+        "Gain a free [Cotton Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Cotton]> <upon turn start>",
+        "Gain a free [Ivory Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Ivory]> <upon turn start>",
+        "Gain a free [Salt Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Salt]> <upon turn start>",
+        "Gain a free [Sugar Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Sugar]> <upon turn start>",
+        "Gain a free [Wine Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Wine]> <upon turn start>",
+        "Gain a free [Silk Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Silk]> <upon turn start>",
+        "Gain a free [Gems Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Gems]> <upon turn start>",
+        "Gain a free [Silver Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Silver]> <upon turn start>",
+        "Gain a free [Gold Ore Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Gold Ore]> <upon turn start>",
+        "Gain a free [Truffles Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Truffles]> <upon turn start>",
+        "Gain a free [Marble Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Marble]> <upon turn start>",
+        "Gain a free [Copper Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Copper]> <upon turn start>",
+        "Gain a free [Porcelain Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is less than [Porcelain]> <upon turn start>",
+
+        "Gain a free [Incense Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Incense]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Dyes Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Dyes]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Furs Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Furs]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Cotton Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Cotton]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Ivory Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Ivory]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Salt Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Salt]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Sugar Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Sugar]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Wine Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Wine]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Silk Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Silk]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Gems Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Gems]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Silver Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Silver]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Gold Ore Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Gold Ore]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Truffles Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Truffles]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Marble Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Marble]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Copper Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Copper]> <upon turn start> <after turn number [2]>",
+        "Gain a free [Porcelain Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is equal to [Porcelain]> <upon turn start> <after turn number [2]>",
+
+        "Remove [Incense Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Incense]> <upon turn start>",
+        "Remove [Dyes Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Dyes]> <upon turn start>",
+        "Remove [Furs Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Furs]> <upon turn start>",
+        "Remove [Cotton Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Cotton]> <upon turn start>",
+        "Remove [Ivory Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Ivory]> <upon turn start>",
+        "Remove [Salt Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Salt]> <upon turn start>",
+        "Remove [Sugar Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Sugar]> <upon turn start>",
+        "Remove [Wine Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Wine]> <upon turn start>",
+        "Remove [Silk Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Silk]> <upon turn start>",
+        "Remove [Gems Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Gems]> <upon turn start>",
+        "Remove [Silver Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Silver]> <upon turn start>",
+        "Remove [Gold Ore Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Gold Ore]> <upon turn start>",
+        "Remove [Truffles Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Truffles]> <upon turn start>",
+        "Remove [Marble Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Marble]> <upon turn start>",
+        "Remove [Copper Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Copper]> <upon turn start>",
+        "Remove [Porcelain Monopoly] [Capital] <when number of [Minimum Resources for Monopolies] is more than [Porcelain]> <upon turn start>",
+
+        // Stats Setup
+        "Instantly gain [1] [CivStarts] <for every [Remaining [Major] Civilizations]> <upon turn end> <when number of [CivStarts] is less than [Remaining [Major] Civilizations]>",
+        "Instantly gain [3] [Minimum Resources for Monopolies] <for every [CivStarts]> <upon turn start> <before turn number [2]>",
+        "Instantly gain [150] [Tourism Goal] <upon turn end> <before turn number [1]>",
+        "Instantly gain [100] [Tourism Goal] <if [More Wonders] is enabled> <upon turn end> <before turn number [1]>",
+        "[+50]% Strength <when fighting in [Ha Long Bay] tiles> <when defending>"
+
+        // TODO: Implement the uniques below
+        // "[+20]% [Culture] [in all cities] <during a golden age>",
+        // "[+20]% [Production] [in all cities] <during a golden age>",
+
+        // "[+10]% growth [in all cities] <during We Love The King Day>",
+
+        // "Nullifies All Yield <while is in resistance>",
+
+        // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
+        // "[-25]% [Culture] [in pupetted cities]"
+
+        // "[+20]% [Production] [in cities connected via railroad]"
+        // something something unit supply
+    ]
+}
