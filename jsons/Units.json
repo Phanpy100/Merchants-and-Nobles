@@ -1304,7 +1304,7 @@
 			"Can be earned through combat",
 			"Cannot enter ocean tiles <before discovering [Astronomy]>",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 2
+		"movement": 4
 	},
 
 	/* Religious units */
@@ -1388,26 +1388,26 @@
 		"name": "Rock Band",
 		"unitType": "Civilian",
 		"uniques": [
-            "Can transform to [Great Musician] <in [non-your] tiles> <costs [10] [Tourism Goal]> <by consuming this unit>",
+            "Can transform to [Great Musician] <in non-[Your] tiles> <costs [5] [Tourism Goal]> <by consuming this unit>",
             "May enter foreign tiles without open borders",
 			"Can be purchased with [Faith] [in all cities]",
 			"[-1] Sight", "Unbuildable", "Only available <when religion is enabled>"],
 		"requiredTech": "Radio",
 		"movement": 4,
-		"cost": 600,
+		"cost": 900,
 	},
 
 	{
 		"name": "Celebrity",
 		"unitType": "Civilian",
 		"uniques": [
-            "Can transform to [Great Merchant] <in [non-your] tiles> <costs [10] [Tourism Goal]> <by consuming this unit>",
+            "Can transform to [Great Merchant] <in  non-[Your] tiles> <costs [15] [Tourism Goal]> <by consuming this unit>",
             "May enter foreign tiles without open borders",
 			"Can be purchased with [Gold] [in all cities]",
 			"[-1] Sight", "Unbuildable"],
 		"requiredTech": "Radio",
 		"movement": 4,
-		"cost": 600,
+		"cost": 900,
 	},
 
 	/* Spaceship Parts */
