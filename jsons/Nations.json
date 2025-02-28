@@ -512,7 +512,7 @@
 		"innerColor": [175, 135, 35],
 		"favoredReligion": "Hellenism",
 		"uniqueName": "Veni Vidi Vici",
-		"uniques": ["When conquering an encampment, earn [300] Gold and recruit a Barbarian unit"],
+		"uniques": ["When conquering an encampment, earn [100] Gold and recruit a Barbarian unit"],
 		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
