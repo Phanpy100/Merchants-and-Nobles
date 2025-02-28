@@ -429,7 +429,7 @@
 		"science": 1,
 		"food": 1,
 		"occursOn": ["Grassland",],
-		"uniques": ["Must be adjacent to [0] [Coast] tiles",  "Rought terrain",
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",  "Rough terrain",
 			"Must be adjacent to [1] to [6] [Grassland] tiles",
 			"Must be adjacent to [2] to [6] [Hill] tiles",
 			"Must be adjacent to [2] to [4] [Jungle] tiles",
