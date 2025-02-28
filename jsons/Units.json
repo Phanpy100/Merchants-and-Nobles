@@ -1401,7 +1401,7 @@
 		"name": "Celebrity",
 		"unitType": "Civilian",
 		"uniques": [
-            "Can transform to [Great Merchant] <in  [non-[Your]] tiles> <costs [5] [Tourism Goal]> <by consuming this unit>",
+            "Can transform to [Great Merchant] <in [non-[Your]] tiles> <costs [5] [Tourism Goal]> <by consuming this unit>",
             "May enter foreign tiles without open borders",
 			"Can be purchased with [Gold] [in all cities]",
 			"[-1] Sight", "Unbuildable"],
